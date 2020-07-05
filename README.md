@@ -4,7 +4,7 @@
 - The project work focus on metabolomics, specifically on purine metabolites and how they respond to different concentrations of added sugars in transformed cells. 
 
 
-## METABOLOMICS: A study of small molecules that are produced as the product of metabolism. 
+### METABOLOMICS: A study of small molecules that are produced as the product of metabolism. 
 
 - I have been working on this project work using Python and R. To analyse and report the analysis, I use Jupyter Notebook, along with Pandas, R-studio (ggplots), Random Forest. 
 
