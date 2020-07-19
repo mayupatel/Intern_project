@@ -17,6 +17,8 @@
 
 - Using Python the raw 'cellC_met.xlsx' data file is parsed and cleaned to remove the duplicate values by calculating the mean values of that data and stored in metabolite_data.xlsx file. The final file is subset into two files based on TIME variable.
 
+- CALCULATION OF FOLD CHANGE VALUES: From the given subset data, the fold change values are calculated between each treatment and control group. This is done by writing a class in Python. The resultant files are saved into file folder for further analysis in R.
+
 
 
 
